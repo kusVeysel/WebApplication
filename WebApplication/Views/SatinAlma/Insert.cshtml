@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "Insert";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+@model  WebApplication.Models.SatinAlmaInsertVM
+
+<div class="card">
+    <div class="card-body">
+        <div class="card-title">
+            <div class="row col-12">
+                <div class="col-6" id="baslik">
+                    Satın Alma Ekleme
+                </div>
+                <div class="col-12 row">
+                    <div class="col-6">
+                        <label>Ürün:</label>
+                        <select class="form-control mb-2" name="productID" id="productID">
+                            @foreach (var product in Model.UrunListe)
+                            {
+                                <option value="@product.ID">@product.UrunAdi</option>
+                            }
+                        </select>
+                        <label>Adet:</label>
+                        <input class="form-control mb-2" type="number" name="adet" id="adet" value="" placeholder="Lütfen Ürün Adedi Giriniz..." />
+                        <label>Toplam Fiyat:</label>
+                        <input class="form-control" type="text" name="toplamFiyat" id="toplamFiyat" value="" placeholder="Lütfen Toplam Fiyat Giriniz..." />
+                    </div>
+                    <div class="col-6">
+                        <label>Tedarikçi:</label>
+                        <select class="form-control mb-2" name="tedarikciID" id="tedarikciID">
+                            @foreach (var tedarikci in Model.TedarikciListe)
+                            {
+                                <option value="@tedarikci.ID">@tedarikci.TedarikciAdi</option>
+                            }
+                        </select>
+                        <label>Birim Fiyat:</label>
+                        <input class="form-control mb-2" type="text" name="birimFiyat" id="birimFiyat" value="" placeholder="Lütfen Ürün Birim Fiyat Giriniz..." />
+                        <label>K.D.V.:</label>
+                        <input class="form-control mb-2" type="text" name="kdv" id="kdv" value="" placeholder="Lütfen K.D.V. Bilgisi Giriniz..." />
+
+                        <label>Satın Alma Tarihi:</label>
+                        <input class="form-control" type="date" name="satinAlmaTarih" id="satinAlmaTarih" value="" />
+                    </div>
+                </div>
+                <div class="col-12">
+                    <a class="btn btn-success mt-2 float-right" onclick="satinAlmaEkle()"><i class="la la-plus"></i> Satın Alma Ekle</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section JS{
+    <script src="~/Assets/Custom/SatinAlmaJS.js"></script>
+}

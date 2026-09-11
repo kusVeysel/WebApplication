@@ -1,0 +1,608 @@
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Turan\Desktop\HS1807 Eğitim\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\veysel\Desktop\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\veysel\Desktop\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\veysel\Desktop\YAZILIM UZMANLIĞI - Kopya\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\veysel\Desktop\YazılımUzmanlığı\MSSQL ve C#\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve C#\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.exe.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Console.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.AssemblyReference.cache
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\veysel\Desktop\YazilimUzmanligi\MSSQL ve CSharp\MVC\MVCSuTakip\WebApplication\WebApplication\obj\Debug\WebApplication.pdb

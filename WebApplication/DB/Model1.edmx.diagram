@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="556b75badbb94e1cbe7d5baa9a621293" Name="Diagram1">
+        <EntityTypeShape EntityType="VeyselModel.Admin" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.Boyut" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.Fatura" Width="1.5" PointX="13" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.Kategori" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.KategoriUrun" Width="1.5" PointX="5.25" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.ListeFiyat" Width="1.5" PointX="5.25" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.LogTablo" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.Materyal" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.Musteri" Width="1.5" PointX="10.375" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.OdemeTipi" Width="1.5" PointX="10.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.SatinAlma" Width="1.5" PointX="8.25" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.Siparis" Width="1.5" PointX="8.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.StokTablo" Width="1.5" PointX="5.25" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.Tedarikci" Width="1.5" PointX="6" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.testTable" Width="1.5" PointX="10.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="VeyselModel.Urun" Width="1.5" PointX="3" PointY="7.5" IsExpanded="true" />
+        <AssociationConnector Association="VeyselModel.FK_Urun_Boyut" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_Fatura_OdemeTipi" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_KategoriUrun_Kategori" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_KategoriUrun_Urun" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_ListeFiyat_Urun" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_Urun_Materyal1" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_Siparis_Musteri" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_SatinAlma_Tedarikci" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_SatinAlma_Urun" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_Siparis_Urun" ManuallyRouted="false" />
+        <AssociationConnector Association="VeyselModel.FK_Stok_Tablo_Urun" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

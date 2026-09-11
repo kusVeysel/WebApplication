@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "BoyutGuncelle";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+@model WebApplication.DB.Kategori
+
+<div class="card">
+    <div class="card-header d-flex col-12 justify-content-between">
+        <h5 class="font-weight-bold">Kategori Güncelle</h5>
+        <a href="/Setup/CategoryIndex" class="btn btn-outline-secondary"><i class="la la-arrow-left"></i> Geri Dön</a>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12 col-md-6">
+                <label>Kategori Adı</label>
+                <input type="text" class="form-control" id="CategoryName" name="CategoryName" value="@Model.KategoriAdi" />
+            </div>
+
+            <div class="col-12 col-md-6 h-100">
+                <button class="btn btn-sm btn-success float-right mt-3" onclick="updateCategory(@Model.ID)"><i class="la la-check"></i> Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+@section JS {
+    <script src="~/Assets/Custom/Setup.js"></script>
+}

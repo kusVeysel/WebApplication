@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Satın Alma Listesi";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+@model List<WebApplication.Models.SatinAlmaUpdateVM>
+<div class="card">
+    <div class="card-body">
+        <div class="card-title">
+            <div class="row col-12">
+                <div class="col-6" id="baslik">
+                    Satın Alma Listesi
+                </div>
+                <div class="col-6">
+                    <a href="/SatinAlma/Insert" class="btn btn-sm btn-success float-right font-weight-bold"><i class="la la-plus"></i> Satın Alma Ekle</a>
+                </div>
+            </div>
+        </div>
+        <table class="table table-striped text-center">
+            <thead>
+                <tr>
+                    <th>Ürün Adı</th>
+                    <th>Tedarikçi Adı</th>
+                    <th>Adet</th>
+                    <th>Birim Fiyat</th>
+                    <th>Toplam Fiyat</th>
+                    <th>K.D.V. Oranı</th>
+                    <th>İşlem Tarihi</th>
+                    <th>İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        @foreach (var urunItem in ViewBag.UrunAd)
+                        {
+                        if (urunItem.ID == item.urunID)
+                    {
+                            <td>@urunItem.UrunAdi</td>
+
+                    }
+                        }
+                        @foreach (var tedarikciItem in ViewBag.teda)
+                        {
+                        if (tedarikciItem.ID == item.tedarikciID)
+                    {
+
+                            <td>@tedarikciItem.TedarikciAdi</td>
+                    }
+                        }
+                        <td>@item.adet</td>
+                        <td>@item.birimFiyat</td>
+                        <td>@item.toplamFiyat</td>
+                        <td>@item.kdvOran</td>
+                        <td>@item.satinAlmaTarih</td>
+                        <td>
+                            <a href="/SatinAlma/Update/@item.urunID" class="btn btn-sm btn-warning"><i class="la la-edit"></i> Güncelle</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

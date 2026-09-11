@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "ProductInsert";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<form action="~/Product/ProductAdd" method="post">
+    <div class="card">
+        <div class="card-body">
+            <div class="card-title">
+                <div class="row col-12">
+                    <div class="col-6" id="baslik">
+                        Ürün Ekleme
+                    </div>
+                    <div class="col-12 row">
+                        <div class="col-6">
+                            <label>Boyut:</label>
+                            <select class="form-control mb-2" name="sizeInfo">
+                                @foreach (var sizeItem in ViewBag.SizeList)
+                                {
+                                    <option value="@sizeItem.ID">@sizeItem.BoyutAdi</option>
+                                }
+                            </select>
+                            <label>Ürün Adı:</label>
+                            <input class="form-control" type="text" name="productName" value="" placeholder="Lütfen Ürün Adı Giriniz..." />
+                        </div>
+                        <div class="col-6">
+                            <label>Materyal:</label>
+                            <select class="form-control mb-2" name="materialInfo">
+                                @foreach (var materialItem in ViewBag.MaterialList)
+                                {
+                                    <option value="@materialItem.ID">@materialItem.MateryalAdi</option>
+                                }
+                            </select>
+                            <label>Aktiflik Durumu:</label>
+                            <input class="custom-checkbox" type="checkbox" name="isActive" value="" />
+                        </div>
+                        <div class="col-12 mt-2">
+                            <label>Açıklama:</label>
+                            <textarea class="form-control" rows="5" name="description" placeholder="Lütfen Ürün Açıklaması Giriniz..."></textarea>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-success mt-2 float-right"><i class="la la-plus"></i> Ürün Ekle</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

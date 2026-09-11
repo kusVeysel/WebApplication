@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "Ürün Güncelleme";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+@model WebApplication.DB.Urun
+
+<div class="card">
+    <div class="card-body">
+        <div class="card-title">
+            <div class="row col-12">
+                <div class="col-6" id="baslik">
+                    Ürün Güncelleme
+                </div>
+                <div class="col-12 row">
+                    <input type="text" name="ID" id="ID" value="@Model.ID" hidden />
+                    <div class="col-6">
+                        <label>Boyut:</label>
+                        <select class="form-control mb-2" name="sizeInfo" id="sizeInfo">
+                            @foreach (var sizeItem in ViewBag.SizeList)
+                            {
+                                if (Model.BoyutID == sizeItem.ID)
+                                {
+                                    <option value="@sizeItem.ID" selected>@sizeItem.BoyutAdi</option>
+                                }
+                                else
+                                {
+                                    <option value="@sizeItem.ID">@sizeItem.BoyutAdi</option>
+                                }
+                            }
+                        </select>
+                        <label>Ürün Adı:</label>
+                        <input class="form-control" type="text" name="productName" id="productName" value="@Model.UrunAdi" placeholder="Lütfen Ürün Adı Giriniz..." />
+                    </div>
+                    <div class="col-6">
+                        <label>Materyal:</label>
+                        <select class="form-control mb-2" name="materialInfo" id="materialInfo">
+                            @foreach (var materialItem in ViewBag.MaterialList)
+                            {
+                                if (Model.MateryalID == materialItem.ID)
+                                {
+                                    <option value="@materialItem.ID" selected>@materialItem.MateryalAdi</option>
+                                }
+                                else
+                                {
+                                    <option value="@materialItem.ID">@materialItem.MateryalAdi</option>
+                                }
+                            }
+                        </select>
+                        <label>Aktiflik Durumu:</label>
+                        @if (Model.AktifMi == true)
+                        {
+                            <input class="custom-checkbox" type="checkbox" name="isActive" id="isActive" value="" checked />
+                        }
+                        else
+                        {
+                            <input class="custom-checkbox" type="checkbox" name="isActive" id="isActive" value="" />
+                        }
+                    </div>
+                    <div class="col-12 mt-2">
+                        <label>Açıklama:</label>
+                        <textarea class="form-control" rows="5" name="description" id="description" placeholder="Lütfen Ürün Açıklaması Giriniz..."> @Model.Aciklama </textarea>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <a class="btn btn-warning mt-2 float-right" onclick="updateProduct()"><i class="la la-plus"></i> Ürün Güncelle</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section JS{
+    <script src="~/Assets/Custom/ProductJS.js"></script>
+}

@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "CustomerUpdate";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+@model WebApplication.DB.Musteri
+
+<div class="card">
+    <div class="card-title mt-2">
+        <div class="row col-12">
+            <div class="col-6" id="baslik">
+                <h2 class="fw-400">Müşteri Güncelleme</h2>
+            </div>
+            <div class="col-6">
+                <a href="/Customer/Index" class="btn btn-sm btn-secondary float-right font-weight-bold"><i class="la la-arrow-left"></i> Geri Dön</a>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row g-2">
+            <div class="col-12 col-md-6">
+                <label>Firma Adı:</label>
+                <input class="form-control mb-2" type="text" name="CustomerName" id="CustomerName" value="@Model.MusteriFirma" placeholder="Lütfen Firma Adı Giriniz..." />
+            </div>
+            <div class="col-12 col-md-6">
+                <label>Telefon:</label>
+                <input class="form-control mb-2" type="tel" name="phone" id="phone" value="@Model.Telefon" placeholder="Lütfen Telefon Giriniz..." />
+            </div>
+            <div class="col-12 col-md-6">
+                <label>Email:</label>
+                <input class="form-control mb-2" type="email" name="email" id="email" value="@Model.Email" placeholder="Lütfen Email Giriniz..." />
+            </div>
+            <div class="col-12 col-md-6">
+                <label>Yetkili:</label>
+                <input class="form-control mb-2" type="text" name="yetkili" id="yetkili" value="@Model.YetkiliAdSoyad" placeholder="Lütfen Yetkili Giriniz..." />
+            </div>
+            <div class="col-12">
+                <label>Adres:</label>
+                <textarea class="form-control mb-2" name="adres" id="adres" placeholder="Lütfen Adres Giriniz...">@Model.Adres</textarea>
+            </div>
+            <div class="col-12">
+                <button class="btn btn-success float-right" onclick="customerUpdate(@Model.ID)"><i class="la la-edit"></i> Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section JS{
+<script src="~/Assets/Custom/CustomerJS.js"></script>
+    }

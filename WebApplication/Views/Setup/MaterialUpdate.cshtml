@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "BoyutGuncelle";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+@model WebApplication.DB.Materyal
+
+<div class="card">
+    <div class="card-header d-flex col-12 justify-content-between">
+        <h5 class="font-weight-bold">Materyal Güncelle</h5>
+        <a href="/Setup/MaterialIndex" class="btn btn-outline-secondary"><i class="la la-arrow-left"></i> Geri Dön</a>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12 col-md-6">
+                <label>Materyal Adı</label>
+                <input type="text" class="form-control" id="MaterialName" name="MaterialName" value="@Model.MateryalAdi" />
+            </div>
+
+            <div class="col-12 col-md-6 h-100">
+                <button class="btn btn-sm btn-success float-right mt-3" onclick="updateMaterial(@Model.ID)"><i class="la la-check"></i> Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+@section JS {
+    <script src="~/Assets/Custom/Setup.js"></script>
+}

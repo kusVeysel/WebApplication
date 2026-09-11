@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|c:\\users\\veysel\\desktop\\yazilimuzmanligi\\mssql ve csharp\\mvc\\mvcsutakip\\webapplication\\webapplication\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|c:\\users\\veysel\\desktop\\yazilimuzmanligi\\mssql ve csharp\\mvc\\mvcsutakip\\webapplication\\webapplication\\assets\\custom\\customerjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\assets\\custom\\customerjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|c:\\users\\veysel\\desktop\\yazilimuzmanligi\\mssql ve csharp\\mvc\\mvcsutakip\\webapplication\\webapplication\\views\\customer\\customerupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\customer\\customerupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|c:\\users\\veysel\\desktop\\yazilimuzmanligi\\mssql ve csharp\\mvc\\mvcsutakip\\webapplication\\webapplication\\views\\customer\\customeradd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\customer\\customeradd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|c:\\users\\veysel\\desktop\\yazilimuzmanligi\\mssql ve csharp\\mvc\\mvcsutakip\\webapplication\\webapplication\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|c:\\users\\veysel\\desktop\\yazilimuzmanligi\\mssql ve csharp\\mvc\\mvcsutakip\\webapplication\\webapplication\\models\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|c:\\users\\veysel\\desktop\\yazilimuzmanligi\\mssql ve csharp\\mvc\\mvcsutakip\\webapplication\\webapplication\\models\\customerinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837E5B48-6D77-4CDA-B42C-7ADCBEA09CC2}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\customerinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerInsert.cs",
+              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Models\\CustomerInsert.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\CustomerInsert.cs",
+              "ToolTip": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Models\\CustomerInsert.cs",
+              "RelativeToolTip": "WebApplication\\Models\\CustomerInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:11:13.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Models\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Models\\CustomerDTO.cs",
+              "RelativeToolTip": "WebApplication\\Models\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:11:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerJS.js",
+              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Assets\\Custom\\CustomerJS.js",
+              "RelativeDocumentMoniker": "WebApplication\\Assets\\Custom\\CustomerJS.js",
+              "ToolTip": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Assets\\Custom\\CustomerJS.js",
+              "RelativeToolTip": "WebApplication\\Assets\\Custom\\CustomerJS.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-08-11T09:09:55.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T09:09:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Views\\Customer\\CustomerUpdate.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Customer\\CustomerUpdate.cshtml",
+              "ToolTip": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Views\\Customer\\CustomerUpdate.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Customer\\CustomerUpdate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T09:09:46.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerAdd.cshtml",
+              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Views\\Customer\\CustomerAdd.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Customer\\CustomerAdd.cshtml",
+              "ToolTip": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Views\\Customer\\CustomerAdd.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Customer\\CustomerAdd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T09:09:44.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\veysel\\Desktop\\YazilimUzmanligi\\MSSQL ve CSharp\\MVC\\MVCSuTakip\\WebApplication\\WebApplication\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T09:09:05.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

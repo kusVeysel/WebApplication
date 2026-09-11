@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VeyselModelStoreContainer" CdmEntityContainer="VeyselEntities">
+    <EntitySetMapping Name="Admin">
+      <EntityTypeMapping TypeName="VeyselModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="AktifMi" ColumnName="AktifMi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Boyut">
+      <EntityTypeMapping TypeName="VeyselModel.Boyut">
+        <MappingFragment StoreEntitySet="Boyut">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BoyutAdi" ColumnName="BoyutAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Fatura">
+      <EntityTypeMapping TypeName="VeyselModel.Fatura">
+        <MappingFragment StoreEntitySet="Fatura">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FaturaNo" ColumnName="FaturaNo" />
+          <ScalarProperty Name="SiparisID" ColumnName="SiparisID" />
+          <ScalarProperty Name="FaturaTarihi" ColumnName="FaturaTarihi" />
+          <ScalarProperty Name="OdenmeDurumu" ColumnName="OdenmeDurumu" />
+          <ScalarProperty Name="OdemeTipiID" ColumnName="OdemeTipiID" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kategori">
+      <EntityTypeMapping TypeName="VeyselModel.Kategori">
+        <MappingFragment StoreEntitySet="Kategori">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="KategoriAdi" ColumnName="KategoriAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KategoriUrun">
+      <EntityTypeMapping TypeName="VeyselModel.KategoriUrun">
+        <MappingFragment StoreEntitySet="KategoriUrun">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ListeFiyat">
+      <EntityTypeMapping TypeName="VeyselModel.ListeFiyat">
+        <MappingFragment StoreEntitySet="ListeFiyat">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="BirimFiyat" ColumnName="BirimFiyat" />
+          <ScalarProperty Name="GuncellemeTarihi" ColumnName="GuncellemeTarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LogTablo">
+      <EntityTypeMapping TypeName="VeyselModel.LogTablo">
+        <MappingFragment StoreEntitySet="LogTablo">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AdminID" ColumnName="AdminID" />
+          <ScalarProperty Name="TabloAdi" ColumnName="TabloAdi" />
+          <ScalarProperty Name="Yapilanİslem" ColumnName="Yapilanİslem" />
+          <ScalarProperty Name="IslemTarihi" ColumnName="IslemTarihi" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Materyal">
+      <EntityTypeMapping TypeName="VeyselModel.Materyal">
+        <MappingFragment StoreEntitySet="Materyal">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MateryalAdi" ColumnName="MateryalAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Musteri">
+      <EntityTypeMapping TypeName="VeyselModel.Musteri">
+        <MappingFragment StoreEntitySet="Musteri">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MusteriFirma" ColumnName="MusteriFirma" />
+          <ScalarProperty Name="YetkiliAdSoyad" ColumnName="YetkiliAdSoyad" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="Toptanmi" ColumnName="Toptanmi" />
+          <ScalarProperty Name="IskentoOran" ColumnName="IskentoOran" />
+          <ScalarProperty Name="AktifMi" ColumnName="AktifMi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OdemeTipi">
+      <EntityTypeMapping TypeName="VeyselModel.OdemeTipi">
+        <MappingFragment StoreEntitySet="OdemeTipi">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="OdemeTipiAdi" ColumnName="OdemeTipiAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SatinAlma">
+      <EntityTypeMapping TypeName="VeyselModel.SatinAlma">
+        <MappingFragment StoreEntitySet="SatinAlma">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="TedarikciID" ColumnName="TedarikciID" />
+          <ScalarProperty Name="Adet" ColumnName="Adet" />
+          <ScalarProperty Name="BirimFiyat" ColumnName="BirimFiyat" />
+          <ScalarProperty Name="ToplamFiyat" ColumnName="ToplamFiyat" />
+          <ScalarProperty Name="KDVOranı" ColumnName="KDVOranı" />
+          <ScalarProperty Name="SatınAlmaTarihi" ColumnName="SatınAlmaTarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Siparis">
+      <EntityTypeMapping TypeName="VeyselModel.Siparis">
+        <MappingFragment StoreEntitySet="Siparis">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="Adet" ColumnName="Adet" />
+          <ScalarProperty Name="ListeSatisFiyat" ColumnName="ListeSatisFiyat" />
+          <ScalarProperty Name="BirimFiyat" ColumnName="BirimFiyat" />
+          <ScalarProperty Name="ToplamSatisFiyat" ColumnName="ToplamSatisFiyat" />
+          <ScalarProperty Name="KDV" ColumnName="KDV" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="SiparisTarihi" ColumnName="SiparisTarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StokTablo">
+      <EntityTypeMapping TypeName="VeyselModel.StokTablo">
+        <MappingFragment StoreEntitySet="StokTablo">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="Stok" ColumnName="Stok" />
+          <ScalarProperty Name="AlarmSeviyesi" ColumnName="AlarmSeviyesi" />
+          <ScalarProperty Name="StokAlarm" ColumnName="StokAlarm" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tedarikci">
+      <EntityTypeMapping TypeName="VeyselModel.Tedarikci">
+        <MappingFragment StoreEntitySet="Tedarikci">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TedarikciAdi" ColumnName="TedarikciAdi" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="VergiDairesi" ColumnName="VergiDairesi" />
+          <ScalarProperty Name="VergiNo" ColumnName="VergiNo" />
+          <ScalarProperty Name="AktifMi" ColumnName="AktifMi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="testTable">
+      <EntityTypeMapping TypeName="VeyselModel.testTable">
+        <MappingFragment StoreEntitySet="testTable">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="TcNo" ColumnName="TcNo" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Urun">
+      <EntityTypeMapping TypeName="VeyselModel.Urun">
+        <MappingFragment StoreEntitySet="Urun">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MateryalID" ColumnName="MateryalID" />
+          <ScalarProperty Name="BoyutID" ColumnName="BoyutID" />
+          <ScalarProperty Name="UrunAdi" ColumnName="UrunAdi" />
+          <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
+          <ScalarProperty Name="AktifMi" ColumnName="AktifMi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

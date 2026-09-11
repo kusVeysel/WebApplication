@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "CustomerAdd";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Müşteri Ekle</h3>
+        <a href="/Customer/Index" class="btn btn-sm btn-danger float-right font-weight-bold"><i class="la la-arrow-left"></i> Geri Dön</a>
+    </div>
+    <div class="card-body">
+        <div class="row g-2">
+
+            <div class="col-12 col-md-6">
+                <label>Firma Adı</label>
+                <input type="text" class="form-control mb-2" placeholder="Firma Adını Giriniz" id="CustomerName" name="CustomerName">
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label>Telefon</label>
+                <input type="text" class="form-control mb-2" placeholder="Telefon Numarası Giriniz" id="Phone" name="Phone">
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label>Email</label>
+                <input type="text" class="form-control mb-2" placeholder="Email Adresini Giriniz" id="Email" name="Email">
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label>Adres</label>
+                <input type="text" class="form-control mb-2" placeholder="Adres Giriniz" id="adres" name="adres">
+            </div>
+
+            <div class="col-12 col-md-6">
+                <label>Yetkili</label>
+                <input type="text" class="form-control mb-2" placeholder="Yetkili Adı Giriniz" id="yetkili" name="yetkili">
+            </div>
+
+            <div class="col-12 ">
+                <button class="btn btn-success mt-3 float-right" onclick="Ekle()">Ekle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section JS{
+    <script src="~/Assets/Custom/CustomerJS.js"></script>
+}

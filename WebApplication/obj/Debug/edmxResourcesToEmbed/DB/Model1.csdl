@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VeyselModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="AktifMi" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="Boyut">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BoyutAdi" Type="Double" />
+    <NavigationProperty Name="Urun" Relationship="Self.FK_Urun_Boyut" FromRole="Boyut" ToRole="Urun" />
+  </EntityType>
+  <EntityType Name="Fatura">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FaturaNo" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="SiparisID" Type="Int32" />
+    <Property Name="FaturaTarihi" Type="DateTime" Precision="3" />
+    <Property Name="OdenmeDurumu" Type="Boolean" />
+    <Property Name="OdemeTipiID" Type="Int32" />
+    <Property Name="Aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="OdemeTipi" Relationship="Self.FK_Fatura_OdemeTipi" FromRole="Fatura" ToRole="OdemeTipi" />
+  </EntityType>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KategoriAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="KategoriUrun" Relationship="Self.FK_KategoriUrun_Kategori" FromRole="Kategori" ToRole="KategoriUrun" />
+  </EntityType>
+  <EntityType Name="KategoriUrun">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UrunID" Type="Int32" />
+    <Property Name="KategoriID" Type="Int32" />
+    <NavigationProperty Name="Kategori" Relationship="Self.FK_KategoriUrun_Kategori" FromRole="KategoriUrun" ToRole="Kategori" />
+    <NavigationProperty Name="Urun" Relationship="Self.FK_KategoriUrun_Urun" FromRole="KategoriUrun" ToRole="Urun" />
+  </EntityType>
+  <EntityType Name="ListeFiyat">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UrunID" Type="Int32" />
+    <Property Name="BirimFiyat" Type="Double" />
+    <Property Name="GuncellemeTarihi" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Urun" Relationship="Self.FK_ListeFiyat_Urun" FromRole="ListeFiyat" ToRole="Urun" />
+  </EntityType>
+  <EntityType Name="LogTablo">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdminID" Type="Int32" />
+    <Property Name="TabloAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yapilanİslem" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="IslemTarihi" Type="DateTime" Precision="3" />
+    <Property Name="Aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Materyal">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MateryalAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Urun" Relationship="Self.FK_Urun_Materyal1" FromRole="Materyal" ToRole="Urun" />
+  </EntityType>
+  <EntityType Name="Musteri">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriFirma" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="YetkiliAdSoyad" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="17" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Adres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Toptanmi" Type="Boolean" />
+    <Property Name="IskentoOran" Type="Int32" />
+    <Property Name="AktifMi" Type="Boolean" />
+    <NavigationProperty Name="Siparis" Relationship="Self.FK_Siparis_Musteri" FromRole="Musteri" ToRole="Siparis" />
+  </EntityType>
+  <EntityType Name="OdemeTipi">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OdemeTipiAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Fatura" Relationship="Self.FK_Fatura_OdemeTipi" FromRole="OdemeTipi" ToRole="Fatura" />
+  </EntityType>
+  <EntityType Name="SatinAlma">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="UrunID" Type="Int32" />
+    <Property Name="TedarikciID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adet" Type="Int32" />
+    <Property Name="BirimFiyat" Type="Double" />
+    <Property Name="ToplamFiyat" Type="Double" />
+    <Property Name="KDVOranı" Type="Int32" />
+    <Property Name="SatınAlmaTarihi" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Tedarikci" Relationship="Self.FK_SatinAlma_Tedarikci" FromRole="SatinAlma" ToRole="Tedarikci" />
+    <NavigationProperty Name="Urun" Relationship="Self.FK_SatinAlma_Urun" FromRole="SatinAlma" ToRole="Urun" />
+  </EntityType>
+  <EntityType Name="Siparis">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriID" Type="Int32" />
+    <Property Name="UrunID" Type="Int32" />
+    <Property Name="Adet" Type="Int32" />
+    <Property Name="ListeSatisFiyat" Type="Double" />
+    <Property Name="BirimFiyat" Type="Double" />
+    <Property Name="ToplamSatisFiyat" Type="Double" />
+    <Property Name="KDV" Type="Int32" />
+    <Property Name="Aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SiparisTarihi" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Musteri" Relationship="Self.FK_Siparis_Musteri" FromRole="Siparis" ToRole="Musteri" />
+    <NavigationProperty Name="Urun" Relationship="Self.FK_Siparis_Urun" FromRole="Siparis" ToRole="Urun" />
+  </EntityType>
+  <EntityType Name="StokTablo">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UrunID" Type="Int32" />
+    <Property Name="Stok" Type="Int32" />
+    <Property Name="AlarmSeviyesi" Type="Int32" />
+    <Property Name="StokAlarm" Type="Boolean" />
+    <NavigationProperty Name="Urun" Relationship="Self.FK_Stok_Tablo_Urun" FromRole="StokTablo" ToRole="Urun" />
+  </EntityType>
+  <EntityType Name="Tedarikci">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TedarikciAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="17" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Adres" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="VergiDairesi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="VergiNo" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="AktifMi" Type="Boolean" />
+    <NavigationProperty Name="SatinAlma" Relationship="Self.FK_SatinAlma_Tedarikci" FromRole="Tedarikci" ToRole="SatinAlma" />
+  </EntityType>
+  <EntityType Name="testTable">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TcNo" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="UserName" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Urun">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MateryalID" Type="Int32" />
+    <Property Name="BoyutID" Type="Int32" />
+    <Property Name="UrunAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Aciklama" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="AktifMi" Type="Boolean" />
+    <NavigationProperty Name="Boyut" Relationship="Self.FK_Urun_Boyut" FromRole="Urun" ToRole="Boyut" />
+    <NavigationProperty Name="KategoriUrun" Relationship="Self.FK_KategoriUrun_Urun" FromRole="Urun" ToRole="KategoriUrun" />
+    <NavigationProperty Name="ListeFiyat" Relationship="Self.FK_ListeFiyat_Urun" FromRole="Urun" ToRole="ListeFiyat" />
+    <NavigationProperty Name="Materyal" Relationship="Self.FK_Urun_Materyal1" FromRole="Urun" ToRole="Materyal" />
+    <NavigationProperty Name="SatinAlma" Relationship="Self.FK_SatinAlma_Urun" FromRole="Urun" ToRole="SatinAlma" />
+    <NavigationProperty Name="Siparis" Relationship="Self.FK_Siparis_Urun" FromRole="Urun" ToRole="Siparis" />
+    <NavigationProperty Name="StokTablo" Relationship="Self.FK_Stok_Tablo_Urun" FromRole="Urun" ToRole="StokTablo" />
+  </EntityType>
+  <Association Name="FK_Urun_Boyut">
+    <End Role="Boyut" Type="Self.Boyut" Multiplicity="0..1" />
+    <End Role="Urun" Type="Self.Urun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Boyut">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Urun">
+        <PropertyRef Name="BoyutID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Fatura_OdemeTipi">
+    <End Role="OdemeTipi" Type="Self.OdemeTipi" Multiplicity="0..1" />
+    <End Role="Fatura" Type="Self.Fatura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OdemeTipi">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Fatura">
+        <PropertyRef Name="OdemeTipiID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KategoriUrun_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="0..1" />
+    <End Role="KategoriUrun" Type="Self.KategoriUrun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="KategoriUrun">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KategoriUrun_Urun">
+    <End Role="Urun" Type="Self.Urun" Multiplicity="0..1" />
+    <End Role="KategoriUrun" Type="Self.KategoriUrun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urun">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="KategoriUrun">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ListeFiyat_Urun">
+    <End Role="Urun" Type="Self.Urun" Multiplicity="0..1" />
+    <End Role="ListeFiyat" Type="Self.ListeFiyat" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urun">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="ListeFiyat">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Urun_Materyal1">
+    <End Role="Materyal" Type="Self.Materyal" Multiplicity="0..1" />
+    <End Role="Urun" Type="Self.Urun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Materyal">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Urun">
+        <PropertyRef Name="MateryalID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparis_Musteri">
+    <End Role="Musteri" Type="Self.Musteri" Multiplicity="0..1" />
+    <End Role="Siparis" Type="Self.Siparis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteri">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Siparis">
+        <PropertyRef Name="MusteriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SatinAlma_Tedarikci">
+    <End Role="Tedarikci" Type="Self.Tedarikci" Multiplicity="1" />
+    <End Role="SatinAlma" Type="Self.SatinAlma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tedarikci">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="SatinAlma">
+        <PropertyRef Name="TedarikciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SatinAlma_Urun">
+    <End Role="Urun" Type="Self.Urun" Multiplicity="0..1" />
+    <End Role="SatinAlma" Type="Self.SatinAlma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urun">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="SatinAlma">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siparis_Urun">
+    <End Role="Urun" Type="Self.Urun" Multiplicity="0..1" />
+    <End Role="Siparis" Type="Self.Siparis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urun">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Siparis">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Stok_Tablo_Urun">
+    <End Role="Urun" Type="Self.Urun" Multiplicity="0..1" />
+    <End Role="StokTablo" Type="Self.StokTablo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urun">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="StokTablo">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="VeyselEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Admin" EntityType="Self.Admin" />
+    <EntitySet Name="Boyut" EntityType="Self.Boyut" />
+    <EntitySet Name="Fatura" EntityType="Self.Fatura" />
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" />
+    <EntitySet Name="KategoriUrun" EntityType="Self.KategoriUrun" />
+    <EntitySet Name="ListeFiyat" EntityType="Self.ListeFiyat" />
+    <EntitySet Name="LogTablo" EntityType="Self.LogTablo" />
+    <EntitySet Name="Materyal" EntityType="Self.Materyal" />
+    <EntitySet Name="Musteri" EntityType="Self.Musteri" />
+    <EntitySet Name="OdemeTipi" EntityType="Self.OdemeTipi" />
+    <EntitySet Name="SatinAlma" EntityType="Self.SatinAlma" />
+    <EntitySet Name="Siparis" EntityType="Self.Siparis" />
+    <EntitySet Name="StokTablo" EntityType="Self.StokTablo" />
+    <EntitySet Name="Tedarikci" EntityType="Self.Tedarikci" />
+    <EntitySet Name="testTable" EntityType="Self.testTable" />
+    <EntitySet Name="Urun" EntityType="Self.Urun" />
+    <AssociationSet Name="FK_Urun_Boyut" Association="Self.FK_Urun_Boyut">
+      <End Role="Boyut" EntitySet="Boyut" />
+      <End Role="Urun" EntitySet="Urun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Fatura_OdemeTipi" Association="Self.FK_Fatura_OdemeTipi">
+      <End Role="OdemeTipi" EntitySet="OdemeTipi" />
+      <End Role="Fatura" EntitySet="Fatura" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KategoriUrun_Kategori" Association="Self.FK_KategoriUrun_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="KategoriUrun" EntitySet="KategoriUrun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KategoriUrun_Urun" Association="Self.FK_KategoriUrun_Urun">
+      <End Role="Urun" EntitySet="Urun" />
+      <End Role="KategoriUrun" EntitySet="KategoriUrun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ListeFiyat_Urun" Association="Self.FK_ListeFiyat_Urun">
+      <End Role="Urun" EntitySet="Urun" />
+      <End Role="ListeFiyat" EntitySet="ListeFiyat" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Urun_Materyal1" Association="Self.FK_Urun_Materyal1">
+      <End Role="Materyal" EntitySet="Materyal" />
+      <End Role="Urun" EntitySet="Urun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparis_Musteri" Association="Self.FK_Siparis_Musteri">
+      <End Role="Musteri" EntitySet="Musteri" />
+      <End Role="Siparis" EntitySet="Siparis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SatinAlma_Tedarikci" Association="Self.FK_SatinAlma_Tedarikci">
+      <End Role="Tedarikci" EntitySet="Tedarikci" />
+      <End Role="SatinAlma" EntitySet="SatinAlma" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SatinAlma_Urun" Association="Self.FK_SatinAlma_Urun">
+      <End Role="Urun" EntitySet="Urun" />
+      <End Role="SatinAlma" EntitySet="SatinAlma" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siparis_Urun" Association="Self.FK_Siparis_Urun">
+      <End Role="Urun" EntitySet="Urun" />
+      <End Role="Siparis" EntitySet="Siparis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Stok_Tablo_Urun" Association="Self.FK_Stok_Tablo_Urun">
+      <End Role="Urun" EntitySet="Urun" />
+      <End Role="StokTablo" EntitySet="StokTablo" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

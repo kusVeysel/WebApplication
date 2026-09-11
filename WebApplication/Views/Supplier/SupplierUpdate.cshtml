@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "SupplierUpdate";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+@model WebApplication.DB.Tedarikci
+<div class="card">
+    <div class="card-header">
+        <div class="d-flex justify-content-between ">
+            <h5 class="font-weight-bold font-size-large">Tedarikçi Güncelle</h5>
+            <a class="btn btn-outline-secondary" href="/Supplier/Index">Geri</a>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row g-2">
+            <input id="ID" value="@Model.ID" name="ID" type="text" hidden/>
+            <div class="col-12 col-md-6">
+                <label>Tedarikçi Adı</label>
+                <input type="text" class="form-control mb-2" name="Name" id="Name" value="@Model.TedarikciAdi" placeholder="Tedarikçi Adı Giriniz"/>
+            </div>
+            <div class="col-12 col-md-6">
+                <label>Telefon</label>
+                <input type="text" class="form-control mb-2" name="Phone" id="Phone" value="@Model.Telefon" placeholder="Telefon Giriniz"/>
+            </div>
+            <div class="col-12 col-md-6">
+                <label>Email</label>
+                <input type="text" class="form-control mb-2" name="Email" id="Email" value="@Model.Email" placeholder="Email Giriniz"/>
+            </div>
+            <div class="col-12 col-md-6">
+                <button class="btn btn-success float-right mt-3" onclick="supplierUpdate(@Model.ID)"><i class="la la-edit"></i>Tedarikçi Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section JS{
+    <script src="~/Assets/Custom/SupplierJS.js"></script>
+}
+

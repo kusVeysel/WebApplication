@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "SetupAdd";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <div class="d-flex justify-content-between">
+            <h5 class="font-weight-bold">Kategori Ekle</h5>
+            <a href="/Setup/CategoryIndex" class="btn btn-outline-secondary"><i class="la la-arrow-left"></i> Geri Dön</a>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row g-2">
+            <div class="col-12 col-md-6">
+                <label>Kategori Adı</label>
+                <input type="text" class="form-control" id="CategoryName" name="CategoryName">
+            </div>
+            <div class="col-12 col-md-6">
+                <button class="btn btn-success float-right mt-2" onclick="CategoryAdd()">Kategori Ekle</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section JS{
+    <script src="~/Assets/Custom/Setup.js"></script>
+}
+
